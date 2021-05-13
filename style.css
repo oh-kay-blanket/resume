@@ -31,10 +31,11 @@
   --main-blocks-title-icon-offset-left: -19pt;
 
   /* My vars */
-  --div-space-big: 25px;
+  --div-space-big: 15px;
   --div-space-small: 17px;
   --paragraph-padding: 8px;
-  --accent-color: #ab6f6d;//6fd1bd;
+  --accent-color: #9c4b41;//6fd1bd;
+  --accent-hover: #ab6f6d;
   --thick-line: 4px solid #222;
   --thin-line: 1px solid #888;
 }
@@ -60,12 +61,12 @@ h1, h2, h3, h4, p {
 }
 
 h1 {
-  font-size: 42pt;
+  font-size: 40pt;
   font-weight: 900;
 }
 
 h2 {
-  font-size: 30pt;
+  font-size: 28pt;
   font-weight: 700;
 }
 
@@ -99,7 +100,7 @@ a {
 }
 
 a:hover {
-  color: #888;
+  color: var(--accent-hover);
 }
 
 .bold {
@@ -136,6 +137,11 @@ a:hover {
 .title {
   flex-basis: 0;
   flex-grow: 1;
+}
+
+#pronoun {
+  font-size: 12pt;
+  color: #888;
 }
 
 .contact {
@@ -193,6 +199,10 @@ a:hover {
   flex-grow: 2;
 }
 
+#skills__list {
+  /* font-weight: 500; */
+}
+
 .experience-box {
   display: flex;
   align-items: flex-start;
@@ -210,7 +220,8 @@ a:hover {
 
 .experience-company {
   flex-basis: 0;
-  flex-grow: 1;
+  flex-grow: 3;
+  margin-right: 10px;
 }
 
 .experience-company h3, .experience-company p  {
@@ -219,7 +230,7 @@ a:hover {
 
 .experience-content {
   flex-basis: 0;
-  flex-grow: 1;
+  flex-grow: 5;
 }
 
 .experience-content h4 {

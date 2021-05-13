@@ -3,9 +3,17 @@
 
 # work experience
 
+### Digital Content Adminstrator & Front-end Developer
+__Sally Beauty__  
+_2020 - present | Denton, Texas_
+
+* Developed innovative strategies to improve site performance and reduce build time by 40%.
+
+* Implemented testing & data analysis to improve component performance by reducing bounce rate (-17%), increasing page views (5%), and increasing RPV (7%).  
+
 ### Freelance Developer
 __Mr. Plunkett Web Design & Development__  
-_2018 - present | Tokyo, Japan_
+_2018 - present | Dallas, Texas_
 
 * Produced content for clients with a focus on mobile first, SEO, and clean design.
 
