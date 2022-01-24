@@ -25,7 +25,7 @@
   --decorator-outer-dim: 9px;
   --decorator-border: 1px solid #ccc;
 
-  --row-blocks-padding-top: 5pt;
+  --row-blocks-padding-top: 8px;
   --date-block-width: 0.6in;
 
   --main-blocks-title-icon-offset-left: -19pt;
@@ -61,27 +61,27 @@ h1, h2, h3, h4, p {
 }
 
 h1 {
-  font-size: 40pt;
+  font-size: 50px;
   font-weight: 900;
 }
 
 h2 {
-  font-size: 28pt;
+  font-size: 36px;
   font-weight: 700;
 }
 
 h3 {
-  font-size: 14pt;
+  font-size: 18px;
   font-weight: 700;
 }
 
 h4 {
-  font-size: 14pt;
+  font-size: 16px;
   font-weight: 400;
 }
 
 p {
-  font-size: 11pt;
+  font-size: 15px;
   letter-spacing: normal;
   color: #888;
 }
@@ -91,7 +91,7 @@ p {
 }
 
 .fa {
-  font-size: 11pt;
+  font-size: 14px;
 }
 
 a {
@@ -104,15 +104,15 @@ a:hover {
 }
 
 .bold {
-  font-size: 12pt;
-  font-weight: bold;
+  /* font-size: 12pt; */
+  font-weight: 600;
 }
 
 .main{
   width: var(--main-width);
   padding: 0.5in;
   background-color: #fff;
-  font-size: 12pt;
+  /* font-size: 12pt; */
 }
 
 .flex-column {
@@ -124,7 +124,7 @@ a:hover {
   align-items: flex-end;
   justify-content: flex-end;
   padding-bottom: 15px;
-  border-bottom: var(--thin-line);
+  /* border-bottom: var(--thin-line); */
 }
 
 .name {
@@ -140,7 +140,7 @@ a:hover {
 }
 
 #pronoun {
-  font-size: 12pt;
+  font-size: 14px;
   color: #888;
 }
 
