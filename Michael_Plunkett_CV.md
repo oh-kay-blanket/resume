@@ -3,7 +3,7 @@
 
 # work experience
 
-### Digital Content Adminstrator & Front-end Developer
+### Sr. Digital Content Adminstrator & Front-End Developer
 __Sally Beauty__  
 _2020 - present | Denton, Texas_
 
