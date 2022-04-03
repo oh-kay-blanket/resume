@@ -3,25 +3,29 @@
 
 # work experience
 
-### Sr. Digital Content Adminstrator & Front-End Developer
+### Sr. Front End Developer
 __Sally Beauty__  
 _2020 - present | Denton, Texas_
 
-* Developed innovative strategies to improve site performance and reduce build time by 40%.
+* Developed innovative strategies to improve site performance and significantly reduce build time.
 
-* Implemented testing & data analysis to improve component performance by reducing bounce rate (-17%), increasing page views (5%), and increasing RPV (7%).  
+* Worked with partners to implement experiments, which reduced bounce rate and increased conversion and RPV.
 
-### Freelance Developer
+* In addition to fostering the development of two employees under my care I was a leadership mentor to another ecommerce team member.
+
+### Front End Developer & Designer
 __Mr. Plunkett Web Design & Development__  
 _2018 - present | Dallas, Texas_
 
-* Produced content for clients with a focus on mobile first, SEO, and clean design.
+* Developed and launched an international multi-lingual ecommerce platform.
 
-* 100% on time delivery for custom websites built with WordPress,HTML5, CSS3 & PHP.  
+* Produced business sites for clients with a focus on mobile first, SEO, and clean design.
+
+* Delivered custom projects built with WordPress, CSS3 & PHP with a streamlined UX.  
 
 ### Educator
 __World Family Club__  
-_2017 - present | Tokyo, Japan_
+_2017 - 2019 | Tokyo, Japan_
 
 * Provided English education via phone to children in Japan.
 
@@ -70,7 +74,7 @@ _2006 - 2014 | Scottsdale, Arizona_
 
 * Developed and lead a K-12 rock band music program and digital music program for students with Asperger’s and high functioning autism. The program focused on live band performances, electronic music composition, music video production, and music competency.
 
-* Managed curriculum development team.
+* Led a team of educators in developing a specialized curriculum to meet the unique needs of the student body.
 
 * Improved student computer literacy.
 
