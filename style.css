@@ -246,11 +246,16 @@ a:hover {
 
 .footer-right p {
   margin-top: var(--paragraph-padding);
+  text-align: right;
 }
 
 .footer-left {
   flex-basis: 0;
   flex-grow: 1;
+}
+
+.footer-left p {
+  margin: 0;
 }
 
 .footer-center {
