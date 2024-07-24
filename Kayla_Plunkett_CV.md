@@ -1,4 +1,4 @@
-## Michael Plunkett - Curriculum Vitae
+## Kayla Plunkett - Curriculum Vitae
 
 
 # work experience
@@ -14,7 +14,7 @@ _2020 - present | Denton, Texas_
 * In addition to fostering the development of two employees under my care I was a leadership mentor to another ecommerce team member.
 
 ### Front End Developer & Designer
-__Mr. Plunkett Web Design & Development__  
+__Kayla Plunkett Web Design & Development__  
 _2018 - present | Dallas, Texas_
 
 * Developed and launched an international multi-lingual ecommerce platform.
