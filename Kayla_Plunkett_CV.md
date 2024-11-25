@@ -1,35 +1,60 @@
-## Kayla Plunkett - Curriculum Vitae
+# Kayla Plunkett - Curriculum Vitae
 
+## Work Experience
 
-# work experience
+### Manager, Front End Development & Experiments
+
+__Sally Beauty__  
+_2022 - present | Denton, Texas_
+
+* Optimized workflows and set SLAs based on needs from cross-functional business, marketing and product teams.
+
+* Negotiated with the Salesforce platform development team to advance the Front End team’s professional growth needs.
+
+* Mentored five developers to optimize front end SEO and refactor code to meet ADA standards for nine sites and two AWS-powered apps.
 
 ### Sr. Front End Developer
+
 __Sally Beauty__  
-_2020 - present | Denton, Texas_
+_2021 - 2022 | Denton, Texas_
 
-* Developed innovative strategies to improve site performance and significantly reduce build time.
+* Implemented an Agile framework, leading to a 40% increase in dev productivity.
 
-* Worked with partners to implement experiments, which reduced bounce rate and increased conversion and RPV.
+* As the Front End SME, I owned the delivery of lean, omnichannel optimizations.
 
-* In addition to fostering the development of two employees under my care I was a leadership mentor to another ecommerce team member.
+* Developed A/B tests to drive core KPIs with an emphasis on continuous development and customer-centric design.
 
-### Front End Developer & Designer
+### Front End Developer
+
+__Sally Beauty__  
+_2020 - 2021 | Denton, Texas_
+
+* Authored a rich knowledge base and hosted curated learning events, strengthening department-wide competence and autonomy.
+
+* Created scalable and reusable components to improve site load time and reduce build time.
+
+* Innovated a custom API-powered SPA for virtual hair color try on, boosting conversion in a core product category.
+
+### Owner, Front End Developer & Designer
+
 __Kayla Plunkett Web Design & Development__  
 _2018 - present | Dallas, Texas_
 
-* Developed and launched an international multi-lingual ecommerce platform.
+* Developed a multilingual international ecommerce platform.
 
-* Produced business sites for clients with a focus on mobile first, SEO, and clean design.
+* Partnered closely with clients, blending our passions, to produce business sites anchored by customer centricity, mobile first design and SEO relevance.
 
-* Delivered custom projects built with WordPress, CSS3 & PHP with a streamlined UX.  
+* With an emphasis on action and decision making, I delivered all client projects websites built with WordPress, CSS3 & PHP, within contract dates.
 
 ### Educator
+
 __World Family Club__  
 _2017 - 2019 | Tokyo, Japan_
 
 * Provided English education via phone to children in Japan.
 
 ### IT/AV Support Analyst
+
 __St George's University of London__  
 _2015 - 2017 | London, U.K._  
 
@@ -42,6 +67,7 @@ _2015 - 2017 | London, U.K._
 * Supported AD Security Groups, DNS management, O365 user rights management, Cisco network switch CLI, IP telephones, Windows Remote Desktop, VPN & network troubleshooting, SCCM deployment & management, HTML editing, Apple devices, and data security & encryption.
 
 ### Photographer
+
 __Lifetouch National School Studios__  
 _2014 | Dallas, Texas_
 
@@ -50,12 +76,14 @@ _2014 | Dallas, Texas_
 * Ensured quality photography through regular supervisor review.
 
 ### Driver
+
 __Lyft__
 _2014 | Dallas, Texas_
 
 * Provided driving services through the smartphone-based car service while living temporarily in Dallas.
 
-### Executive Director, Music Therapist
+### Owner, Music Therapist
+
 __Sun Beat Music__  
 _2009 - 2014 | Tempe, Arizona_
 
@@ -69,14 +97,15 @@ Museum, consulting for an online 3D guitar instruction website, and facilitating
 * Primary AV technician for 20+ of events of up to 200 attendees. Set up and operated PA systems, mixing consoles, video projectors and musical equipment.
 
 ### Director of Music
+
 __Gateway Academy__  
 _2006 - 2014 | Scottsdale, Arizona_
 
 * Developed and lead a K-12 rock band music program and digital music program for students with Asperger’s and high functioning autism. The program focused on live band performances, electronic music composition, music video production, and music competency.
 
-* Led a team of educators in developing a specialized curriculum to meet the unique needs of the student body.
+* Improved student computer literacy through creating and leading a digital music program.
 
-* Improved student computer literacy.
+* Led the curriculum development team in developing new teaching plans.
 
 * Acted as lead AV technician for graduation ceremonies/events requiring PA systems & video projection.
 
@@ -87,6 +116,7 @@ _2006 - 2014 | Scottsdale, Arizona_
 * Initiated and supervised several special programs, events, concerts, and field trips for students.
 
 ### Music Therapist
+
 __Higher Octave Healing__  
 _2009 - 2012 | Tempe, Arizona_
 
@@ -103,6 +133,7 @@ _2009 - 2012 | Tempe, Arizona_
 * Gave presentations to coworkers on topics including guitar techniques, incorporating adaptive technology into therapy sessions, and skills for working with large groups.
 
 ### Intern
+
 __MusicWorx__  
 _2008 - 2009 | San Diego, California_
 
@@ -111,12 +142,14 @@ _2008 - 2009 | San Diego, California_
 * Communicated frequently with supervisors and hospital staff to assure patient success.
 
 ### Worship Leader
+
 __St. Peter Lutheran__  
 _2006 - 2008 | Mesa, Arizona_
 
 * Assembled a contemporary rock band, arranged music, and performing weekly for a contemporary worship service.
 
 ### Educator
+
 __Diamond School of Music__  
 _2006 - 2007 | Scottsdale, Arizona_
 
@@ -126,11 +159,10 @@ _2006 - 2007 | Scottsdale, Arizona_
 
 * Acted as Office Manager ensuring billing consistency, marketing, and working with parent/student needs.
 
-
-
-# education
+## Education
 
 ### B.M. Music Therapy
+
 __Arizona State University__  
 _2003 - 2009 | Tempe, Arizona_
 
@@ -142,29 +174,29 @@ _2003 - 2009 | Tempe, Arizona_
 
 * Magna Cum Laude
 
-
-
-# certifications
+## Certifications
 
 ### MCPS: Microsoft Certified Professional
-__Microsoft__   
+
+__Microsoft__
 _2017_
 
 ### MS: Configuring Windows Devices
+
 __Microsoft__  
 _2017_
 
-
-
-# volunteer work
+## Volunteer Work
 
 ### Diversity Task Force Board Member
+
 __American Music Therapy Association__  
 _2012 - 2015_
 
 * Assisted in reviewing, analyzing, and publishing the results of a diversity survey completed by American music therapists.
 
 ### Local Conference Chair
+
 __Western Region American Music Therapy Association (WRAMTA)__  
 _2012 - 2013 | Tempe, Arizona_
 
@@ -173,19 +205,20 @@ _2012 - 2013 | Tempe, Arizona_
 * Provided AV support involving procuring and setting up 6 Epson LCD projectors for lecture rooms ensuring presenters were equipped with appropriate audio and wiring gear to suit their needs.
 
 ### Vice President
+
 __Arizona Music Therapy Association__  
 _2012 - 2013_
 
 * Initiated, organized, and hosted four continuing education forums on a diverse range of topics.
 
 ### Vice President
+
 __ASU Music Therapy Student Organization__  
 _2012 - 2013 | Tempe, Arizona_
 
 * Initiated, produced, and hosted two music therapy student recitals.
 
-
-# references
+## References
 
 #### [Kymla Eubanks](https://higheroctavehealing.org/about/team/)
 __Former Employer__  
@@ -196,8 +229,3 @@ keubanks@higheroctavehealing.org
 __Former Employer__  
 _Executive Director, Gateway Academy | Scottsdale, Arizona_  
 spectrumcollegetransition@gmail.com
-
-#### [Frank Thompson](http://azrhythmconnection.com/)
-__Mentor__  
-_Executive Director, AZ Rhythm Connection | Scottsdale, Arizona_  
-frank@azrhythmconnection.com
