@@ -7,6 +7,8 @@
 __Sally Beauty__  
 _2022 - present | Denton, Texas_
 
+* Developed a robust experimentation ecosystem, combining Analytics, Product, UX, Business & Marketing teams, which has become instrumental in driving data-centric design decisions for digital platforms.
+
 * Optimized workflows and set SLAs based on needs from cross-functional business, marketing and product teams.
 
 * Negotiated with the Salesforce platform development team to advance the Front End team’s professional growth needs.
