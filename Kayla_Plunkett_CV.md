@@ -1,4 +1,17 @@
-# Kayla Plunkett - Curriculum Vitae
+# Kayla Plunkett - CV
+
+[kayla.lee.plunkett@gmail.com](mailto:kayla.lee.plunkett@gmail.com) | 469-703-2688 | <https://github.com/oh-kay-blanket> | <https://www.linkedin.com/in/kaylaleeplunkett/> | <https://ohkayblanket.com> | Dallas, TX, USA
+
+Senior Frontend Engineer with 7+ years of experience building scalable web applications using React, TypeScript, and modern tooling. Skilled in performance optimization, UI/UX collaboration, and leading cross-functional teams in agile environments.
+
+__Languages__: JavaScript, TypeScript, HTML, CSS/Sass  
+__Frameworks/Libraries__: React, Next.js, Gatsby
+__Tools__: Webpack, Vite, D3.js, Git
+__Testing__: Jest, React Testing Library
+__CI/CD & DevOps__: GitHub Actions, Docker
+__Analytics__: GA4, Quantum Metric
+__UX/UI__: Figma, Photoshop
+__Other__: REST APIs, GraphQL, Accessibility (a11y), Web Performance, SEO, Salesforce
 
 ## Work Experience
 
@@ -13,9 +26,9 @@ _2022 - present | Denton, Texas_
 
 * Negotiated with the Salesforce platform development team to advance the Front End team’s professional growth needs.
 
-* Mentored five developers to optimize front end SEO and refactor code to meet ADA standards for nine sites and two AWS-powered apps.
+* Mentored five developers to optimize front end SEO and refactor code to meet ADA standards for nine sites and two AWS-powered apps resulting in +28% YoY boost to key pages.
 
-### Sr. Front End Developer
+### Senior Front End Developer
 
 __Sally Beauty__  
 _2021 - 2022 | Denton, Texas_
@@ -40,20 +53,13 @@ _2020 - 2021 | Denton, Texas_
 ### Owner, Front End Developer & Designer
 
 __Kayla Plunkett Web Design & Development__  
-_2018 - present | Dallas, Texas_
+_2017 - present | Dallas, Texas_
 
 * Developed a multilingual international ecommerce platform.
 
 * Partnered closely with clients, blending our passions, to produce business sites anchored by customer centricity, mobile first design and SEO relevance.
 
 * With an emphasis on action and decision making, I delivered all client projects websites built with WordPress, CSS3 & PHP, within contract dates.
-
-### Educator
-
-__World Family Club__  
-_2017 - 2019 | Tokyo, Japan_
-
-* Provided English education via phone to children in Japan.
 
 ### IT/AV Support Analyst
 
@@ -67,22 +73,6 @@ _2015 - 2017 | London, U.K._
 * Provided wide array of support including repairing computers, providing Windows and Office assistance, troubleshooting equipment failures, installing new AV equipment, and servicing over 120 teaching rooms.
 
 * Supported AD Security Groups, DNS management, O365 user rights management, Cisco network switch CLI, IP telephones, Windows Remote Desktop, VPN & network troubleshooting, SCCM deployment & management, HTML editing, Apple devices, and data security & encryption.
-
-### Photographer
-
-__Lifetouch National School Studios__  
-_2014 | Dallas, Texas_
-
-* Provided on-site troubleshooting for equipment issues, reducing company expense.
-
-* Ensured quality photography through regular supervisor review.
-
-### Driver
-
-__Lyft__
-_2014 | Dallas, Texas_
-
-* Provided driving services through the smartphone-based car service while living temporarily in Dallas.
 
 ### Owner, Music Therapist
 
@@ -103,15 +93,9 @@ Museum, consulting for an online 3D guitar instruction website, and facilitating
 __Gateway Academy__  
 _2006 - 2014 | Scottsdale, Arizona_
 
-* Developed and lead a K-12 rock band music program and digital music program for students with Asperger’s and high functioning autism. The program focused on live band performances, electronic music composition, music video production, and music competency.
-
-* Improved student computer literacy through creating and leading a digital music program.
+* Developed and lead a K-12 rock band music program and digital music program for students with High Functioning Autism. The program focused on live band performances, electronic music composition, music video production, and music competency.
 
 * Led the curriculum development team in developing new teaching plans.
-
-* Acted as lead AV technician for graduation ceremonies/events requiring PA systems & video projection.
-
-* Regularly took initiative in repairing, soldering, and purchasing audio equipment.
 
 * Communicated with parents, staff, and students to ensure the special needs of the students were met in music class.  
 
@@ -161,6 +145,20 @@ _2006 - 2007 | Scottsdale, Arizona_
 
 * Acted as Office Manager ensuring billing consistency, marketing, and working with parent/student needs.
 
+## Projects
+
+### Learn Cryptic
+
+Learn Cryptic is a dynamic educational tool to help people learn to solve cryptic crosswords.
+
+<https://learncryptic.com>
+
+### Blood Lines
+
+Blood Lines is a 3D family tree visualizer built with React and D3.js.
+
+<https://blood-lines.ohkayblanket.com>
+
 ## Education
 
 ### B.M. Music Therapy
@@ -170,13 +168,16 @@ _2003 - 2009 | Tempe, Arizona_
 
 * Served as Vice President of the Student Music Therapy Association.
 
-* Served as a member of Students for Sensible, Sustainable Energy.
-
 * Received Music Therapy Scholarship for 2006-2007 and 2007-2008 school years.
 
 * Magna Cum Laude
 
 ## Certifications
+
+### Certified SAFe® 4 Practitioner
+
+__Scaled Agile, Inc.__
+_2023_
 
 ### MCPS: Microsoft Certified Professional
 
@@ -189,6 +190,13 @@ __Microsoft__
 _2017_
 
 ## Volunteer Work
+
+### Software Developer
+
+__Transformations Project__
+_2025_
+
+* Led Gatsby build, D3.js data visualization implementation and ADA audit for a nonprofit advocacy group.
 
 ### Diversity Task Force Board Member
 
