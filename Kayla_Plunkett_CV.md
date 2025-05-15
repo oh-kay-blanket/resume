@@ -26,14 +26,16 @@ _2022 - present | Denton, Texas_
 
 * Negotiated with the Salesforce platform development team to advance the Front End team’s professional growth needs.
 
-* Mentored five developers to optimize front end SEO and refactor code to meet ADA standards for nine sites and two AWS-powered apps resulting in +28% YoY boost to key pages.
+* Provided technical leadership by mentoring five developers to optimize front end SEO and refactor code to meet ADA standards for nine sites and two AWS-powered apps resulting in +28% YoY boost to key pages.
+
+* Partnered closely with Product, UX, and Marketing to build, implement and champion a robust design system.
 
 ### Senior Front End Developer
 
 __Sally Beauty__  
 _2021 - 2022 | Denton, Texas_
 
-* Implemented an Agile framework, leading to a 40% increase in dev productivity.
+* Implemented a scaled Agile framework, leading to a 40% increase in productivity.
 
 * As the Front End SME, I owned the delivery of lean, omnichannel optimizations.
 
@@ -46,9 +48,11 @@ _2020 - 2021 | Denton, Texas_
 
 * Authored a rich knowledge base and hosted curated learning events, strengthening department-wide competence and autonomy.
 
-* Created scalable and reusable components to improve site load time and reduce build time.
+* Implemented a front end architecture by establishing Git standards and Jira workflows.
 
-* Innovated a custom API-powered SPA for virtual hair color try on, boosting conversion in a core product category.
+* Created scalable and reusable UI components to improve site load time, reduce build time and create consistent, pixel-perfect interfaces.
+
+* Innovated a custom API-powered SPA using camera information to display virtual hair color try on, boosting conversion in a core product category.
 
 ### Owner, Front End Developer & Designer
 
@@ -149,15 +153,45 @@ _2006 - 2007 | Scottsdale, Arizona_
 
 ### Learn Cryptic
 
-Learn Cryptic is a dynamic educational tool to help people learn to solve cryptic crosswords.
+Learn Cryptic is a daily crossword game to help people learn to solve cryptic crosswords. Tools: React, Gatsby, Figma.
 
 <https://learncryptic.com>
 
 ### Blood Lines
 
-Blood Lines is a 3D family tree visualizer built with React and D3.js.
+Blood Lines is a mobile-first  3D family tree visualizer. Tools: React, D3.js.
 
 <https://blood-lines.ohkayblanket.com>
+
+### Soil
+
+A custom travel map. Tools: Google Maps JavaScript API.
+
+<https://soil.ohkayblanket.com/>
+
+### Vinyl
+
+A custom vinyl collection viewer. Tools: React, JavaScript.
+
+<https://vinyl.ohkayblanket.com/>
+
+### Moving Shadow
+
+An NPM packatge, which creates a responsive text shadow based on mouse position (desktop) or device sensor orientation (mobile). Tools: JavaScript, NPM.
+
+<https://github.com/oh-kay-blanket/moving-shadow>
+
+### Neon
+
+A CSS animation library to add a neon sign effect to text and icons. Tools: CSS/SCSS.
+
+<https://github.com/oh-kay-blanket/css-neon-sign>
+
+### Dusk
+
+A custom animation depicting a sunset. Tools: JavaScript, D3.js.
+
+<https://oh-kay-blanket.github.io/d3-sunset/>
 
 ## Education
 
@@ -196,7 +230,14 @@ _2017_
 __Transformations Project__
 _2025_
 
-* Led Gatsby build, D3.js data visualization implementation and ADA audit for a nonprofit advocacy group.
+* Helped lead transformation to a Gatsby build, D3.js data visualization implementation and ADA audit for a nonprofit advocacy group.
+
+__House of Colorful Creations__
+_2025_
+
+* As co-lead of the LGBTQIA+ ERG at Sally Beauty, I organzed webinars, led member meetings, published educational materials and managed a budget of $15k.
+
+* Grew membership by 200% in three months through improved communication and outreach.
 
 ### Diversity Task Force Board Member
 
