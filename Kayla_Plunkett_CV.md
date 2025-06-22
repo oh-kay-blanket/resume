@@ -20,6 +20,8 @@ Senior Frontend Engineer with 7+ years of experience building scalable web appli
 **Sally Beauty**  
 _2022 - present | Denton, Texas_
 
+- Led adoption of a cross-departmental design system in partnership with Product and UX.
+
 - Refactored legacy codebases for 9 websites and 2 AWS-powered apps, boosting accessibility and SEO, and driving a 28% YoY increase in key metrics.
 
 - Mentored a team of 10 developers in Salesforce architecture.
@@ -27,8 +29,6 @@ _2022 - present | Denton, Texas_
 Developed a robust experimentation ecosystem, combining Analytics, Product, UX, Business & Marketing teams, which has become instrumental in driving data-centric design decisions for digital platforms.
 
 - Established collaborative workflows with Salesforce platform engineers to support front-end needs.
-
-- Led adoption of a cross-platform design system in partnership with Product and UX.
 
 ### Senior Front End Developer
 
