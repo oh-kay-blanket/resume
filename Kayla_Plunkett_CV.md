@@ -22,7 +22,7 @@ _2022 - present | Denton, Texas_
 
 - Led adoption of a cross-departmental design system in partnership with Product and UX.
 
-- Refactored legacy codebases for 9 websites and 2 AWS-powered apps, boosting accessibility and SEO, and driving a 28% YoY increase in key metrics.
+- Refactored legacy codebases for 9 websites and 2 AWS-powered apps, boosting accessibility and SEO, and driving a 7% YoY increase in Ecommerce revenue.
 
 - Mentored a team of 10 developers in Salesforce architecture.
 
