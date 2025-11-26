@@ -20,13 +20,15 @@ Senior Frontend Engineer with 7+ years of experience building scalable web appli
 **Sally Beauty**  
 _2022 - present | Denton, Texas_
 
+- Built and implemented a React Native kiosk app for use in new stores.
+
 - Led adoption of a cross-departmental design system in partnership with Product and UX.
 
 - Refactored legacy codebases for 9 websites and 2 AWS-powered apps, boosting accessibility and SEO, and driving a 7% YoY increase in Ecommerce revenue.
 
 - Mentored a team of 10 developers in Salesforce architecture.
 
-Developed a robust experimentation ecosystem, combining Analytics, Product, UX, Business & Marketing teams, which has become instrumental in driving data-centric design decisions for digital platforms.
+- Developed a robust experimentation ecosystem, combining Analytics, Product, UX, Business & Marketing teams, which has become instrumental in driving data-centric design decisions for digital platforms.
 
 - Established collaborative workflows with Salesforce platform engineers to support front-end needs.
 
@@ -214,7 +216,7 @@ _2017_
 **Transformations Project**
 _2025_
 
-- Led front-end transformation to a Gatsby-based static site build.
+- Led front-end transformation to a Gatsby-React static site build.
 
 - Implemented interactive D3.js visualizations and conducted ADA compliance audits to improve accessibility.
 
