@@ -28,7 +28,7 @@ _2022 - present | Denton, Texas_
 
 - Mentored a team of 10 developers in Salesforce architecture.
 
-- Developed a robust experimentation ecosystem, combining Analytics, Product, UX, Business & Marketing teams, which has become instrumental in driving data-centric design decisions for digital platforms.
+- Developed a robust experimentation ecosystem, combining Analytics, Product, UX, Business & Marketing teams, which has become instrumental in driving data-centric design decisions for digital platforms. Notable tests include driving +8% AOV, +14% Revenue per session, and reducing failed payments by 20%.
 
 - Established collaborative workflows with Salesforce platform engineers to support front-end needs.
 
