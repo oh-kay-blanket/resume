@@ -5,13 +5,12 @@
 Senior Frontend Engineer with 7+ years of experience building scalable web applications using React, TypeScript, and modern tooling. Skilled in performance optimization, UI/UX collaboration, and leading cross-functional teams in agile environments.
 
 **Languages**: JavaScript, TypeScript, HTML, CSS/Sass  
-**Frameworks/Libraries**: React, Next.js, Gatsby
-**Tools**: Webpack, Vite, D3.js, Git
-**Testing**: Jest, React Testing Library
-**CI/CD & DevOps**: GitHub Actions, Docker
-**Analytics**: GA4, Quantum Metric
-**UX/UI**: Figma, Photoshop
-**Other**: REST APIs, GraphQL, Accessibility (a11y), Web Performance, SEO, Salesforce
+**Frameworks & Libraries**: React, React Native, Next.js, Redux, Node.js
+**Build Tools**: Webpack, Vite, npm/yarn
+**Testing**: Jest, React Testing Library, Cypress
+**CI/CD & DevOps**: GitHub Actions, Docker, Vercel
+**Data & Analytics**: GA4, Quantum Metric, A/B Testing Platforms
+**Design & Collaboration**: Figma, Storybook
 
 ## Work Experience
 
@@ -20,48 +19,45 @@ Senior Frontend Engineer with 7+ years of experience building scalable web appli
 **Sally Beauty**  
 _2022 - present | Denton, Texas_
 
-- Built and implemented a React Native kiosk app for use in new stores.
+- Identified a workflow bottleneck in app homepage configuration and independently built a React-based content management tool, replacing error-prone manual JSON editing with a guided interface—improving team productivity and reducing QA cycles during app development.
 
-- Led adoption of a cross-departmental design system in partnership with Product and UX.
+- Led adoption of a cross-departmental design system in partnership with Product and UX, establishing standards that improved development velocity and UI consistency across teams.
 
-- Refactored legacy codebases for 9 websites and 2 AWS-powered apps, boosting accessibility and SEO, and driving a 7% YoY increase in Ecommerce revenue.
+- Built and scaled a cross-functional experimentation ecosystem spanning Analytics, Product, UX, and Marketing—driving data-informed decisions that delivered +8% AOV, +14% revenue per session, and 20% reduction in failed payments.
 
-- Mentored a team of 10 developers in Salesforce architecture.
+- Mentored a team of 10 developers on Salesforce architecture and front-end best practices, while establishing collaborative workflows with platform engineers to streamline cross-team dependencies.
 
-- Developed a robust experimentation ecosystem, combining Analytics, Product, UX, Business & Marketing teams, which has become instrumental in driving data-centric design decisions for digital platforms. Notable tests include driving +8% AOV, +14% Revenue per session, and reducing failed payments by 20%.
-
-- Established collaborative workflows with Salesforce platform engineers to support front-end needs.
 
 ### Senior Front End Developer
 
 **Sally Beauty**  
 _2021 - 2022 | Denton, Texas_
 
-- Implemented a scaled Agile framework, leading to a 40% increase in productivity.
+- Refactored legacy codebases across 9 websites and 2 AWS-powered applications, improving accessibility and SEO while contributing to a 7% YoY increase in ecommerce revenue.
 
-- Delivered omnichannel site optimizations using modern JavaScript features and scalable component design.
+- Championed adoption of a scaled Agile framework across the front-end team, resulting in a 40% increase in sprint velocity.
 
-- Designed A/B test implementations to validate design decisions using real user data.
+- Architected scalable component patterns and implemented modern JavaScript optimizations to support omnichannel experiences across web and mobile platforms.
 
 ### Front End Developer
 
 **Sally Beauty**  
 _2020 - 2021 | Denton, Texas_
 
-- Established front-end Git protocols and Jira standards for Agile workflows.
+- Developed a custom JavaScript SPA for virtual hair color try-on using live camera input, delivering an interactive product discovery experience for customers.
 
-- Created scalable & reusable UI components to streamline UI consistency and performance.
+- Established front-end Git workflows and Jira standards that were adopted team-wide, improving code review efficiency and sprint planning consistency.
 
-- Developed a custom JavaScript SPA for virtual hair color try-on using live camera input.
+- Built a library of scalable, reusable UI components, reducing development time for new features and improving cross-site consistency.
 
-### Owner, Front End Developer & Designer
+### Owner & Front End Developer
 
 **Kayla Plunkett Web Design & Development**  
-_2017 - present | Dallas, Texas_
+_2017 - 2022 | Dallas, Texas_
 
-- Designed and developed custom business sites with a focus on SEO, accessibility, and mobile responsiveness.
+- Operate an independent consultancy delivering custom web solutions for small businesses, including multilingual e-commerce platforms and WordPress implementations.
 
-- Delivered multilingual international e-commerce platforms and client-first WordPress solutions.
+- Manage end-to-end project delivery: client discovery, technical scoping, design, development, and post-launch support.
 
 ### IT/AV Support Analyst
 
