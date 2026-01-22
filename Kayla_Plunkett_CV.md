@@ -1,15 +1,15 @@
-# Kayla Plunkett - CV
+# Kay Plunkett - CV
 
 [kayla.lee.plunkett@gmail.com](mailto:kayla.lee.plunkett@gmail.com) | 469-703-2688 | <https://github.com/oh-kay-blanket> | <https://www.linkedin.com/in/kaylaleeplunkett/> | <https://ohkayblanket.com> | Dallas, TX, USA
 
-Senior Frontend Engineer with 7+ years of experience building scalable web applications using React, TypeScript, and modern tooling. Skilled in performance optimization, UI/UX collaboration, and leading cross-functional teams in agile environments.
+Frontend Engineering Manager with 8+ years of experience building scalable solutions using React, Node.js, and modern web technologies. Proven track record leading cross-functional teams to deliver omnichannel retail experiences at enterprise scale, including Salesforce Commerce Cloud implementations and mobile applications. Expert in performance optimization, A/B testing platforms, and driving data-informed decisions that deliver measurable business results.
 
 **Languages**: JavaScript, TypeScript, HTML, CSS/Sass  
 **Frameworks & Libraries**: React, React Native, Next.js, Redux, Node.js
 **Build Tools**: Webpack, Vite, npm/yarn
 **Testing**: Jest, React Testing Library, Cypress
 **CI/CD & DevOps**: GitHub Actions, Docker, Vercel
-**Data & Analytics**: GA4, Quantum Metric, A/B Testing Platforms
+**Data & Analytics**: GA4, Qua ntum Metric, A/B Testing Platforms
 **Design & Collaboration**: Figma, Storybook
 
 ## Work Experience
@@ -19,13 +19,16 @@ Senior Frontend Engineer with 7+ years of experience building scalable web appli
 **Sally Beauty**  
 _2022 - present | Denton, Texas_
 
-- Identified a workflow bottleneck in app homepage configuration and independently built a React-based content management tool, replacing error-prone manual JSON editing with a guided interface—improving team productivity and reducing QA cycles during app development.
+- Lead omnichannel team of developers delivering web, mobile, and in-store experiences across Salesforce-powered e-commerce platforms serving 50M+ users
 
-- Led adoption of a cross-departmental design system in partnership with Product and UX, establishing standards that improved development velocity and UI consistency across teams.
+- Architected and deployed React Native kiosk application across Sally retail locations, creating seamless omnichannel customer experiences between digital and physical touchpoints
 
-- Built and scaled a cross-functional experimentation ecosystem spanning Analytics, Product, UX, and Marketing—driving data-informed decisions that delivered +8% AOV, +14% revenue per session, and 20% reduction in failed payments.
+- Built cross-functional experimentation ecosystem spanning Analytics, Product, UX, and Marketing that drove +8% AOV, +14% revenue per session, and 20% reduction in failed payments through data-driven optimizations
 
-- Mentored a team of 10 developers on Salesforce architecture and front-end best practices, while establishing collaborative workflows with platform engineers to streamline cross-team dependencies.
+- Developed React-based CMS tool to replace manual JSON configuration workflows, eliminating deployment bottlenecks and reducing QA cycles for homepage content management
+- Led adoption of enterprise design system in partnership with Product and UX teams, establishing scalable component standards that improved development velocity across cross-functional teams
+
+- Managed stakeholder relationships across Engineering, Product, Marketing, and Analytics to align technical roadmaps with business objectives
 
 
 ### Senior Front End Developer
@@ -33,52 +36,53 @@ _2022 - present | Denton, Texas_
 **Sally Beauty**  
 _2021 - 2022 | Denton, Texas_
 
-- Refactored legacy codebases across 9 websites and 2 AWS-powered applications, improving accessibility and SEO while contributing to a 7% YoY increase in ecommerce revenue.
+- Refactored legacy Salesforce Commerce Cloud codebases serving 50M+ users on AWS infrastructure, improving accessibility, SEO performance, and contributing to 136% YoY organic traffic increase
 
-- Championed adoption of a scaled Agile framework across the front-end team, resulting in a 40% increase in sprint velocity.
+- Championed Agile framework adoption across frontend team, implementing sprint planning and workflow improvements that increased velocity by 40%
 
-- Architected scalable component patterns and implemented modern JavaScript optimizations to support omnichannel experiences across web and mobile platforms.
+- Architected scalable component patterns and modern JavaScript optimizations supporting omnichannel experiences across web and mobile platforms
 
 ### Front End Developer
 
 **Sally Beauty**  
 _2020 - 2021 | Denton, Texas_
 
-- Developed a custom JavaScript SPA for virtual hair color try-on using live camera input, delivering an interactive product discovery experience for customers.
+- Developed custom JavaScript SPA for virtual hair color try-on using live camera input, delivering interactive product discovery experience
 
-- Established front-end Git workflows and Jira standards that were adopted team-wide, improving code review efficiency and sprint planning consistency.
+- Established Git workflows and Jira standards adopted team-wide, improving code review efficiency and sprint planning consistency
 
-- Built a library of scalable, reusable UI components, reducing development time for new features and improving cross-site consistency.
+- Built reusable UI component library reducing development time for new features and improving cross-site consistency
 
-### Owner & Front End Developer
+### Freelance Front End Developer
 
-**Kayla Plunkett Web Design & Development**  
-_2017 - 2022 | Dallas, Texas_
+**Self-Employed**  
+_2017 - 2020 | Tokyo, JP_
 
-- Operate an independent consultancy delivering custom web solutions for small businesses, including multilingual e-commerce platforms and WordPress implementations.
+- Delivered custom web solutions for small businesses including multilingual e-commerce platforms and WordPress implementations
 
-- Manage end-to-end project delivery: client discovery, technical scoping, design, development, and post-launch support.
+- Managed end-to-end project delivery from client discovery through technical scoping, development, and post-launch support
 
 ### IT/AV Support Analyst
 
 **St George's University of London**  
 _2015 - 2017 | London, U.K._
 
-- Developed internal auditing scripts in Visual Basic and supported SQL-based troubleshooting.
+- Developed internal auditing scripts in Visual Basic and supported SQL-based troubleshooting
 
-- Provided technical support across AV, networking, security, and device management systems.
+- Provided technical support across AV, networking, security, and device management systems
 
 ### Owner, Music Therapist
 
 **Sun Beat Music**  
 _2009 - 2014 | Tempe, Arizona_
 
-- Established numerous music programs for schools, assisted living communities, non-profit organizations, and corporate events.
+- Established numerous music programs for schools, assisted living communities, non-profit organizations, and corporate events
 
-- Taught a guitar skills class for docents at Arizona’s world renowned Musical Instrument Museum.
-- Consulted for an online 3D guitar instruction website.
+- Taught a guitar skills class for docents at Arizona’s world renowned Musical Instrument Museum
 
-- Worked with clients & colleagues in program development, event management (AV Tech), conflict resolution, and in troubleshooting various political and technological issues.
+- Consulted for an online 3D guitar instruction website
+
+- Worked with clients & colleagues in program development, event management (AV Tech), conflict resolution, and in troubleshooting various political and technological issues
 
 ### Director of Music
 
@@ -87,91 +91,91 @@ _2006 - 2014 | Scottsdale, Arizona_
 
 - Developed and lead a K-12 rock band music program and digital music program for students with High Functioning Autism. The program focused on live band performances, electronic music composition, music video production, and music competency.
 
-- Led the curriculum development team in developing new teaching plans.
+- Led the curriculum development team in developing new teaching plans
 
-- Communicated with parents, staff, and students to ensure the special needs of the students were met in music class.
+- Communicated with parents, staff, and students to ensure the special needs of the students were met in music class
 
-- Initiated and supervised several special programs, events, concerts, and field trips for students.
+- Initiated and supervised several special programs, events, concerts, and field trips for students
 
 ### Music Therapist
 
 **Higher Octave Healing**  
 _2009 - 2012 | Tempe, Arizona_
 
-- Assembled and led four special-needs rock band groups.
+- Assembled and led four special-needs rock band groups
 
-- Used adaptive technology to help clients play traditional rock band instruments to perform concerts.
+- Used adaptive technology to help clients play traditional rock band instruments to perform concerts
 
-- Supervised and mentored six Arizona State University music therapy pre-clinical students and interns.
+- Supervised and mentored six Arizona State University music therapy pre-clinical students and interns
 
-- Led presentations to coworkers on topics including guitar techniques, incorporating adaptive technology into therapy sessions, and skills for working with large groups.
+- Led presentations to coworkers on topics including guitar techniques, incorporating adaptive technology into therapy sessions, and skills for working with large groups
 
 ### Intern
 
 **MusicWorx**  
 _2008 - 2009 | San Diego, California_
 
-- Provided music therapy sessions for many different populations including: hospital patients, drug/alcohol abuse victims, homeless, cancer survivors, children and adults with developmental disabilities, community groups, and elderly.
+- Provided music therapy sessions for many different populations including: hospital patients, drug/alcohol abuse victims, homeless, cancer survivors, children and adults with developmental disabilities, community groups, and elderly
 
-- Communicated frequently with supervisors and hospital staff to assure patient success.
+- Communicated frequently with supervisors and hospital staff to assure patient success
 
 ### Worship Leader
 
 **St. Peter Lutheran**  
 _2006 - 2008 | Mesa, Arizona_
 
-- Assembled a contemporary rock band, arranged music, and performing weekly for a contemporary worship service.
+- Assembled a contemporary rock band, arranged music, and performing weekly for a contemporary worship service
 
 ### Educator
 
 **Diamond School of Music**  
 _2006 - 2007 | Scottsdale, Arizona_
 
-- Taught private and group guitar lessons for various levels of experience and age ranges.
+- Taught private and group guitar lessons for various levels of experience and age ranges
 
-- Developed and facilitated a Kindermusik music learning program for young children.
+- Developed and facilitated a Kindermusik music learning program for young children
 
 ## Projects
 
 ### Learn Cryptic
 
-Learn Cryptic is a daily crossword game to help people learn to solve cryptic crosswords. Tools: React, Gatsby, Figma.
+Learn Cryptic is a daily crossword game to help people learn to solve cryptic crosswords. Tools: React, Gatsby, Figma
 
 <https://learncryptic.com>
 
 ### Blood Lines
 
-Blood Lines is a mobile-first 3D family tree visualizer. Tools: React, D3.js.
+Blood Lines is a mobile-first 3D family tree visualizer. Tools: React, D3.js
 
 <https://blood-lines.ohkayblanket.com>
 
 ### Soil
 
-A custom travel map. Tools: Google Maps JavaScript API.
+A custom travel map. Tools: Google Maps JavaScript API
 
 <https://soil.ohkayblanket.com/>
 
 ### Vinyl
 
-A custom vinyl collection viewer. Tools: React, JavaScript.
+A custom vinyl collection viewer. Tools: React, JavaScript
 
 <https://vinyl.ohkayblanket.com/>
 
 ### Moving Shadow
 
-An NPM packatge, which creates a responsive text shadow based on mouse position (desktop) or device sensor orientation (mobile). Tools: JavaScript, NPM.
+An NPM packatge, which creates a responsive text shadow based on mouse position (desktop) or device sensor orientation (mobile). Tools: JavaScript, NPM
 
 <https://github.com/oh-kay-blanket/moving-shadow>
 
 ### Neon
 
-A CSS animation library to add a neon sign effect to text and icons. Tools: CSS/SCSS.
+A CSS animation library to add a neon sign effect to text and icons. Tools: CSS/SCSS
 
 <https://github.com/oh-kay-blanket/css-neon-sign>
 
 ### Dusk
 
-A custom animation depicting a sunset. Tools: JavaScript, D3.js.
+A custom animation depicting a sunset. Tools: JavaScript, D3.js
 
 <https://oh-kay-blanket.github.io/d3-sunset/>
 
@@ -182,9 +186,9 @@ A custom animation depicting a sunset. Tools: JavaScript, D3.js.
 **Arizona State University**  
 _2003 - 2009 | Tempe, Arizona_
 
-- Served as Vice President of the Student Music Therapy Association.
+- Served as Vice President of the Student Music Therapy Association
 
-- Received Music Therapy Scholarship for 2006-2007 and 2007-2008 school years.
+- Received Music Therapy Scholarship for 2006-2007 and 2007-2008 school years
 
 - Magna Cum Laude
 
@@ -212,48 +216,48 @@ _2017_
 **Transformations Project**
 _2025_
 
-- Led front-end transformation to a Gatsby-React static site build.
+- Led front-end transformation to a Gatsby-React static site build
 
-- Implemented interactive D3.js visualizations and conducted ADA compliance audits to improve accessibility.
+- Implemented interactive D3.js visualizations and conducted ADA compliance audits to improve accessibility
 
-- Contributed to a collaborative redesign focused on advocacy and data storytelling.
+- Contributed to a collaborative redesign focused on advocacy and data storytelling
 
 **House of Colorful Creations**
 _2025_
 
-- As co-lead of the LGBTQIA+ ERG at Sally Beauty, I organzed webinars, led member meetings, published educational materials and managed a budget of $15k.
+- As co-lead of the LGBTQIA+ ERG at Sally Beauty, I organzed webinars, led member meetings, published educational materials and managed a budget of $15k
 
-- Grew membership by 200% in three months through improved communication and outreach.
+- Grew membership by 200% in three months through improved communication and outreach
 
 ### Diversity Task Force Board Member
 
 **American Music Therapy Association**  
 _2012 - 2015_
 
-- Assisted in reviewing, analyzing, and publishing the results of a diversity survey completed by American music therapists.
+- Assisted in reviewing, analyzing, and publishing the results of a diversity survey completed by American music therapists
 
 ### Local Conference Chair
 
 **Western Region American Music Therapy Association (WRAMTA)**  
 _2012 - 2013 | Tempe, Arizona_
 
-- Managed all volunteers, worked with vendors, hosted a community forum, arranged entertainment, gathered materials, held meetings, and acted as liaison between the conference chair and all local connections.
+- Managed all volunteers, worked with vendors, hosted a community forum, arranged entertainment, gathered materials, held meetings, and acted as liaison between the conference chair and all local connections
 
-- Provided AV support involving procuring and setting up 6 Epson LCD projectors for lecture rooms ensuring presenters were equipped with appropriate audio and wiring gear to suit their needs.
+- Provided AV support involving procuring and setting up 6 Epson LCD projectors for lecture rooms ensuring presenters were equipped with appropriate audio and wiring gear to suit their needs
 
 ### Vice President
 
 **Arizona Music Therapy Association**  
 _2012 - 2013_
 
-- Initiated, organized, and hosted four continuing education forums on a diverse range of topics.
+- Initiated, organized, and hosted four continuing education forums on a diverse range of topics
 
 ### Vice President
 
 **ASU Music Therapy Student Organization**  
 _2012 - 2013 | Tempe, Arizona_
 
-- Initiated, produced, and hosted two music therapy student recitals.
+- Initiated, produced, and hosted two music therapy student recitals
 
 ## References
 
