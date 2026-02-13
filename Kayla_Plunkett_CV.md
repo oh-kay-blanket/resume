@@ -135,17 +135,23 @@ _2006 - 2007 | Scottsdale, Arizona_
 
 - Developed and facilitated a Kindermusik music learning program for young children
 
-## Projects
+## Selected works
 
 ### Learn Cryptic
 
-Learn Cryptic is a daily crossword game to help people learn to solve cryptic crosswords. Tools: React, Gatsby, Figma
+Learn Cryptic is a daily crossword game with 300+ active daily users. Tools: React, Gatsby, Figma, GraphQL
+
+<https://learncryptic.com>
+
+### Trans Formations Project
+
+Trans Formataions Project is a legislation tracker tool. Tools: React, Gatsby, GraphQL
 
 <https://learncryptic.com>
 
 ### Blood Lines
 
-Blood Lines is a mobile-first 3D family tree visualizer. Tools: React, D3.js
+Blood Lines is a one-of-a-kind 3D visualizer for genealogical data. Tools: React, D3.js
 
 <https://blood-lines.ohkayblanket.com>
 
@@ -155,29 +161,17 @@ A custom travel map. Tools: Google Maps JavaScript API
 
 <https://soil.ohkayblanket.com/>
 
-### Vinyl
-
-A custom vinyl collection viewer. Tools: React, JavaScript
-
-<https://vinyl.ohkayblanket.com/>
-
 ### Moving Shadow
 
 An NPM packatge, which creates a responsive text shadow based on mouse position (desktop) or device sensor orientation (mobile). Tools: JavaScript, NPM
 
-<https://github.com/oh-kay-blanket/moving-shadow>
+<https://www.npmjs.com/package/moving-shadow>
 
 ### Neon
 
 A CSS animation library to add a neon sign effect to text and icons. Tools: CSS/SCSS
 
 <https://github.com/oh-kay-blanket/css-neon-sign>
-
-### Dusk
-
-A custom animation depicting a sunset. Tools: JavaScript, D3.js
-
-<https://oh-kay-blanket.github.io/d3-sunset/>
 
 ## Education
 
@@ -258,17 +252,3 @@ _2012 - 2013_
 _2012 - 2013 | Tempe, Arizona_
 
 - Initiated, produced, and hosted two music therapy student recitals
-
-## References
-
-#### [Kymla Eubanks](https://higheroctavehealing.org/about/team/)
-
-**Former Employer**  
-_Executive Director, Higher Octave Healing | Tempe, Arizona_  
-keubanks@higheroctavehealing.org
-
-#### [Robin Sweet](https://www.gatewayacademy.us/about-us)
-
-**Former Employer**  
-_Executive Director, Gateway Academy | Scottsdale, Arizona_  
-spectrumcollegetransition@gmail.com
