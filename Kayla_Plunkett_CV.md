@@ -8,8 +8,8 @@ Frontend Engineering Manager with 8+ years of experience building scalable solut
 **Frameworks & Libraries**: React, React Native, Next.js, Redux, Node.js
 **Build Tools**: Webpack, Vite, npm/yarn
 **Testing**: Jest, React Testing Library, Cypress
-**CI/CD & DevOps**: GitHub Actions, Docker, Vercel
-**Data & Analytics**: GA4, Qua ntum Metric, A/B Testing Platforms
+**CI/CD & DevOps**: GitHub Actions, Netlify
+**Data & Analytics**: GA4, Firebase, Quantum Metric, A/B Testing Platforms
 **Design & Collaboration**: Figma, Storybook
 
 ## Work Experience
