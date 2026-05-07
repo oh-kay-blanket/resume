@@ -1,6 +1,6 @@
 # Kay Plunkett - CV
 
-[kayla.lee.plunkett@gmail.com](mailto:kayla.lee.plunkett@gmail.com) | 469-703-2688 | <https://github.com/oh-kay-blanket> | <https://www.linkedin.com/in/kaylaleeplunkett/> | <https://ohkayblanket.com> | Dallas, TX, USA
+[kayla.lee.plunkett@gmail.com](mailto:kayla.lee.plunkett@gmail.com) | 469-703-2688 | <https://github.com/oh-kay-blanket> | <https://www.linkedin.com/in/kaylaleeplunkett/> | <https://ohkaycomputer.com> | Dallas, TX, USA
 
 Frontend Engineering Manager with 8+ years of experience building scalable solutions using React, Node.js, and modern web technologies. Proven track record leading cross-functional teams to deliver omnichannel retail experiences at enterprise scale, including Salesforce Commerce Cloud implementations and mobile applications. Expert in performance optimization, A/B testing platforms, and driving data-informed decisions that deliver measurable business results.
 
@@ -17,7 +17,9 @@ Frontend Engineering Manager with 8+ years of experience building scalable solut
 ### Frontend Engineering Manager & Technical Lead
 
 **Sally Beauty**  
-_2022 - present | Denton, Texas_
+_2022 - present | Plano, Texas_
+
+- Pioneered AI-augmented engineering workflows using Claude Code, developing custom tooling that saves the team measurable hours of coding per week — establishing repeatable practices now adopted across the team.
 
 - Lead omnichannel team of developers delivering web, mobile, and in-store experiences across Salesforce-powered e-commerce platforms serving 50M+ users
 
@@ -29,7 +31,6 @@ _2022 - present | Denton, Texas_
 - Led adoption of enterprise design system in partnership with Product and UX teams, establishing scalable component standards that improved development velocity across cross-functional teams
 
 - Managed stakeholder relationships across Engineering, Product, Marketing, and Analytics to align technical roadmaps with business objectives
-
 
 ### Senior Front End Developer
 
